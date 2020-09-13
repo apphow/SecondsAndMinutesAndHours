@@ -16,7 +16,7 @@
 * Validate that it is >= 0, and return "Invalid value" if it is not true.
 
 * If it is valid, then calculate how many minutes are in the seconds value and then call the other 
-  overloadded method passing the correct minutes and seconds calculated so that it can
+  overloaded method passing the correct minutes and seconds calculated so that it can
   calculate correctly
   
 * Call both methods to print values to the console.
